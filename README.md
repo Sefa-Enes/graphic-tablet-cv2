@@ -3,6 +3,7 @@ Do you need a graphic tablet but you only have a webcam and nothing else? Now yo
 You will see this windows when you start main.py:
 ![Ekran görüntüsü 2024-02-06 221105](https://github.com/Sefa-Enes/graphic-tablet-cv2/assets/73657105/edce1611-38f2-4fbc-bbab-a077e4c4d34c)
 ![Ekran görüntüsü 2024-02-06 221122](https://github.com/Sefa-Enes/graphic-tablet-cv2/assets/73657105/35fd3fb0-2413-4118-b07c-367c13571156)
+
 You have to set a main color for app to follow. But it won't draw yet. You will need a side color for drawing. If side color is detected then the app will trace and draw the main color that it follows.
 Config 1 for main color, Config 2 for side color.
 ![Ekran görüntüsü 2023-06-07 225819](https://github.com/Sefa-Enes/graphic-tablet-cv2/assets/73657105/87ea0b8f-1aa0-454e-a176-7872e0db1bdc)
